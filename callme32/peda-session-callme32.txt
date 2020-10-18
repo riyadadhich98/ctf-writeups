@@ -1,0 +1,31 @@
+break __gmon_start__@plt
+break __libc_start_main@plt
+break callme_one@plt
+break callme_three@plt
+break callme_two@plt
+break exit@plt
+break memset@plt
+break printf@plt
+break puts@plt
+break read@plt
+break setvbuf@plt
+tbreak main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
